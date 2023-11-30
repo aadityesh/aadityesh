@@ -16,7 +16,7 @@
 <a href="https://twitter.com/aaditwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaditwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aadityesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadityesh" height="30" width="40" /></a>
 <a href="https://instagram.com/aadityesh.jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityesh.jpg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aad8i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aad8i" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/aadityesh" target="blank"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg?w=72&h=72" alt="aadityesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
