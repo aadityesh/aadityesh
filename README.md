@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aadityeshjain](https://medium.com/@aadityeshjain)
 
-- 📫 How to reach me **aadityeshjain@yahoo.com**
+- 📫 How to reach me **aadityesh.jain2020@vitbhopal.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
