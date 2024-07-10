@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadityesh" alt="aadityesh" /></a> </p>
 
-- 🌱 I’m currently learning **Exloring Front end projects along with NodeJS and Express**
+- 🌱 I’m currently learning **Exploring NextJS & Diving Deep in DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@aadityeshjain](https://medium.com/@aadityeshjain)
 
